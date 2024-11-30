@@ -1,5 +1,5 @@
 Hello! I’m Joshua Lebi.
-A Quality-oriented professional with 13.5+ years of experience and a proven knowledge of programming, web design, and database design.
+A Quality-oriented professional with 14.5+ years of experience and a proven knowledge of programming, web design, and database design.
 Aiming to leverage my skills to successfully be the best Full Stack Developer the ever walked the earth.
 Talented Technical Support Representative with gift for understanding needs of both business and home users.
 Versed in troubleshooting and desktop support on Windows, Linux and Mac systems.
